@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeMigrator", "CodeMigrator.csproj", "{86E20C88-C0E6-43D9-8589-16CF83F6E378}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeMigrator.Tests", "..\CodeMigratorTests\CodeMigrator.Tests.csproj", "{8315A92A-77D4-45FC-A539-7E09D155FF0E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeMigratorTests", "..\CodeMigratorTests\CodeMigratorTests.csproj", "{F8492584-A607-4E3A-A010-FAC0704C1818}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{86E20C88-C0E6-43D9-8589-16CF83F6E378}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86E20C88-C0E6-43D9-8589-16CF83F6E378}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86E20C88-C0E6-43D9-8589-16CF83F6E378}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8315A92A-77D4-45FC-A539-7E09D155FF0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8315A92A-77D4-45FC-A539-7E09D155FF0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8315A92A-77D4-45FC-A539-7E09D155FF0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8315A92A-77D4-45FC-A539-7E09D155FF0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8492584-A607-4E3A-A010-FAC0704C1818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8492584-A607-4E3A-A010-FAC0704C1818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8492584-A607-4E3A-A010-FAC0704C1818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8492584-A607-4E3A-A010-FAC0704C1818}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

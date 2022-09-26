@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AppCodeMigratorA360Tests")]
+[assembly: AssemblyTitle("CodeMigratorTests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AppCodeMigratorA360Tests")]
+[assembly: AssemblyProduct("CodeMigratorTests")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("8315a92a-77d4-45fc-a539-7e09d155ff0e")]
+[assembly: Guid("f8492584-a607-4e3a-a010-fac0704c1818")]
 
 // Version information for an assembly consists of the following four values:
 //
