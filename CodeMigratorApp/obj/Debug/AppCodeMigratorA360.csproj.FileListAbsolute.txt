@@ -1,0 +1,13 @@
+C:\Users\marcu\source\repos\AppCodeMigratorA360\bin\Debug\AppCodeMigratorA360.exe.config
+C:\Users\marcu\source\repos\AppCodeMigratorA360\bin\Debug\AppCodeMigratorA360.exe
+C:\Users\marcu\source\repos\AppCodeMigratorA360\bin\Debug\AppCodeMigratorA360.pdb
+C:\Users\marcu\source\repos\AppCodeMigratorA360\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marcu\source\repos\AppCodeMigratorA360\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marcu\source\repos\AppCodeMigratorA360\obj\Debug\AppCodeMigratorA360.csproj.AssemblyReference.cache
+C:\Users\marcu\source\repos\AppCodeMigratorA360\obj\Debug\AppCodeMigratorA360.Properties.Resources.resources
+C:\Users\marcu\source\repos\AppCodeMigratorA360\obj\Debug\AppCodeMigratorA360.csproj.GenerateResource.cache
+C:\Users\marcu\source\repos\AppCodeMigratorA360\obj\Debug\AppCodeMigratorA360.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\AppCodeMigratorA360\obj\Debug\AppCodeMigratorA360.csproj.CopyComplete
+C:\Users\marcu\source\repos\AppCodeMigratorA360\obj\Debug\AppCodeMigratorA360.exe
+C:\Users\marcu\source\repos\AppCodeMigratorA360\obj\Debug\AppCodeMigratorA360.pdb
+C:\Users\marcu\source\repos\AppCodeMigratorA360\obj\Debug\AppCodeMigratorA360.LoginPage.resources
