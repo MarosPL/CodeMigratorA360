@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeMigrator", "CodeMigrator.csproj", "{86E20C88-C0E6-43D9-8589-16CF83F6E378}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeMigrator.Tests", "..\AppCodeMigratorA360Tests\CodeMigrator.Tests.csproj", "{8315A92A-77D4-45FC-A539-7E09D155FF0E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeMigrator.Tests", "..\CodeMigratorTests\CodeMigrator.Tests.csproj", "{8315A92A-77D4-45FC-A539-7E09D155FF0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
